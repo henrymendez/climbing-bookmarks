@@ -1,4 +1,4 @@
-# Climbing bookmarks
+# Climbing bookmarks :climbing:
 Collection of videos and articles related to rock climbing. Most videos are saved
 in categorized YouTube Playlists.
 
@@ -14,4 +14,9 @@ in categorized YouTube Playlists.
 * :tv: [Trad Basics](https://www.youtube.com/playlist?list=PL9_1Bungu0_FtE-kuuhordUMVH46hHLyk)
 * :tv: [Advanced Alpine/Big Wall](https://www.youtube.com/playlist?list=PL9_1Bungu0_HE5d4lbiq0fDCSEj3njJMa)
 * :tv: [Intro to Sport Climbing](https://www.youtube.com/playlist?list=PL9_1Bungu0_Ffx92hKtEJguqaYbvVCcDo)
+* :newspaper: [people.bath.ac.uk - free resource of advanced climbing techniques](https://people.bath.ac.uk/dac33/high/)
+
+
+# Communities
+* [Mountain Project](https://www.mountainproject.com): Message Board
 
